@@ -1,3 +1,3 @@
 # labTerraform
 
-![pantallazo consola tofu apply](imagenes/evidencia.png)
+![pantallazo consola tofu apply](evidencia.png)
